@@ -3,38 +3,214 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <meta name="color-scheme" content="dark light" />
     <title>Сложно сосредоточиться</title>
-    <script src="./scripts/script.js"></script>
+
+    <link rel="icon" href="./images/favicon.ico" sizes="any" />
+    <link rel="icon" href="./images/favicon.svg" type="image/svg+xml" />
+
+    <link rel="stylesheet" href="./fonts/fonts.css" />
+    <link rel="stylesheet" href="./styles/globals.css" />
+    <link rel="stylesheet" href="./styles/variables.css" />
+    <link rel="stylesheet" href="./styles/style.css" />
+    <link rel="stylesheet" href="./styles/dark.css" />
+    <link rel="stylesheet" href="./styles/light.css" />
+
+    <script src="./scripts/script.js" defer></script>
   </head>
   <body class="page">
-    <header class="header decorated-zone">
-      <nav class="header__theme-menu">
-        <ul class="header__theme-menu-list">
-          <li class="header__theme-menu-item">
-            <button
-              class="header__theme-menu-button header__theme-menu-button_type_light"
-            >
-              День
-            </button>
-          </li>
-          <li class="header__theme-menu-item">
-            <button
-              class="header__theme-menu-button header__theme-menu-button_active header__theme-menu-button_type_auto"
-              disabled
-            >
-              Авто
-            </button>
-          </li>
-          <li class="header__theme-menu-item">
-            <button
-              class="header__theme-menu-button header__theme-menu-button_type_dark"
-            >
-              Неон
-            </button>
-          </li>
-        </ul>
-      </nav>
-    </header>
+    <div class="page__inner">
+      <header class="header decorated-zone">
+        <span class="header__rec" aria-hidden="true">
+          REC
+        </span>
+
+        <nav class="header__theme-menu" aria-label="Переключение темы">
+          <ul class="header__theme-menu-list">
+            <li class="header__theme-menu-item">
+              <button
+                class="header__theme-menu-button header__theme-menu-button_type_light"
+                type="button"
+              >
+                День
+              </button>
+            </li>
+            <li class="header__theme-menu-item">
+              <button
+                class="header__theme-menu-button header__theme-menu-button_active header__theme-menu-button_type_auto"
+                type="button"
+                disabled
+              >
+                Авто
+              </button>
+            </li>
+            <li class="header__theme-menu-item">
+              <button
+                class="header__theme-menu-button header__theme-menu-button_type_dark"
+                type="button"
+              >
+                Неон
+              </button>
+            </li>
+          </ul>
+        </nav>
+
+        <div class="header__content">
+          <h1 class="header__title">
+            сложно сосредоточиться
+          </h1>
+          <p class="header__description title-decor">
+            А когда всё время отвлекаешься, сложно работать и просто жить.
+            Здесь собраны техники, которые помогут вернуть внимание.
+          </p>
+        </div>
+      </header>
+
+      <main class="main content">
+        <section class="section intro" aria-labelledby="intro-title">
+          <h2 class="section__title title-decor" id="intro-title">
+            Почему мы отвлекаемся
+          </h2>
+          <div class="section__content">
+            <p class="section__text">
+              В современном мире внимание — самый ценный ресурс. Мы постоянно
+              переключаемся между задачами, уведомлениями и окнами браузера.
+            </p>
+            <p class="section__text">
+              Мозг не успевает восстановиться и начинает уставать. В таком
+              состоянии сложно удерживать фокус даже на простых делах.
+            </p>
+          </div>
+        </section>
+
+        <section class="section advices" aria-labelledby="advices-title">
+          <h2 class="section__title" id="advices-title">
+            Что поможет
+          </h2>
+          <div class="section__grid">
+            <article class="card">
+              <h3 class="card__title title-decor">
+                Ограничить фоновый шум
+              </h3>
+              <p class="card__text">
+                Выключите лишние уведомления и звуки. Оставьте только то, что
+                важно действительно сейчас.
+              </p>
+            </article>
+            <article class="card">
+              <h3 class="card__title title-decor">
+                Делать паузы
+              </h3>
+              <p class="card__text">
+                Небольшой перерыв раз в 40–50 минут помогает сохранить
+                концентрацию дольше и не выгорать.
+              </p>
+            </article>
+            <article class="card">
+              <h3 class="card__title title-decor">
+                Планировать день
+              </h3>
+              <p class="card__text">
+                Записывайте задачи и оценивайте, сколько времени займёт каждая.
+                Так проще не распыляться и доводить дела до конца.
+              </p>
+            </article>
+          </div>
+        </section>
+
+        <section class="section focus" aria-labelledby="focus-title">
+          <h2 class="section__title title-decor" id="focus-title">
+            Как тренировать внимание
+          </h2>
+          <div class="section__content section__content_columns">
+            <article class="card card_type_compact">
+              <h3 class="card__title">
+                Однозадачность
+              </h3>
+              <p class="card__text">
+                Попробуйте хотя бы час в день посвящать только одной задаче.
+                Закройте лишние вкладки и уберите телефон.
+              </p>
+            </article>
+            <article class="card card_type_compact">
+              <h3 class="card__title">
+                Наблюдательность
+              </h3>
+              <p class="card__text">
+                Выберите предмет вокруг и в течение минуты рассматривайте только
+                его, замечая детали. Это простое, но эффективное упражнение.
+              </p>
+            </article>
+            <article class="card card_type_compact">
+              <h3 class="card__title">
+                Цифровой детокс
+              </h3>
+              <p class="card__text">
+                Устройте вечер без гаджетов раз в неделю, чтобы мозг смог
+                отдохнуть от постоянного потока информации.
+              </p>
+            </article>
+          </div>
+        </section>
+
+        <section class="section gallery" aria-labelledby="gallery-title">
+          <h2 class="section__title" id="gallery-title">
+            Галерея
+          </h2>
+          <div class="gallery__grid">
+            <figure class="gallery__item">
+              <img
+                class="gallery__image"
+                src="./images/sunset.png"
+                alt="Закат над городом"
+                loading="lazy"
+              />
+            </figure>
+            <figure class="gallery__item">
+              <img
+                class="gallery__image"
+                src="./images/ice-cream.png"
+                alt="Пломбир в вафельном стаканчике"
+                loading="lazy"
+              />
+            </figure>
+            <figure class="gallery__item">
+              <img
+                class="gallery__image"
+                src="./images/tape.png"
+                alt="Магнитная кассета на столе"
+                loading="lazy"
+              />
+            </figure>
+            <figure class="gallery__item">
+              <img
+                class="gallery__image"
+                src="./images/books.png"
+                alt="Стопка книг на кровати"
+                loading="lazy"
+              />
+            </figure>
+            <figure class="gallery__item">
+              <img
+                class="gallery__image"
+                src="./images/street.png"
+                alt="Ночная улица в неоновом освещении"
+                loading="lazy"
+              />
+            </figure>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer decorated-zone">
+        <h2 class="footer__title">
+          сложно сосредоточиться
+        </h2>
+      </footer>
+    </div>
   </body>
 </html>

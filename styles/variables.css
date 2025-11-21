@@ -1,4 +1,40 @@
 /*
   Переменные для вашего проекта
   и их переопределение под различные устройства
+  Здесь описана основная (тёмная) тема.
 */
+
+:root {
+  /* Цвета */
+  --bg-color: #000028;
+  --accent-color: #ff0070;
+  --accent-soft-color: #f1b2ce;
+  --text-color: #f1b2ce;
+  --title-color: #db00ff;
+  --title-shadow-color: #ff0070;
+  --section-title-color: #ff0070;
+  --rec-color: #ff0070;
+   --decor-border-color: var(--accent-color);
+   --title-decor-text-color: #000028;
+  --page-bg-image: url('../images/cover-image-dark.png');
+
+  /* Типографика */
+  --font-family: 'IBM Plex mono', monospace;
+  --font-size-s: 0.875rem;
+  --font-size-m: 1rem;
+  --font-size-l: 1.125rem;
+
+  /* Отступы и размеры */
+  --page-padding-inline: 10px;
+  --page-padding-inline-desktop: 20px;
+  --page-padding-block: 20px;
+  --page-padding-block-desktop: 20px;
+  --section-gap: 50px;
+  --section-gap-desktop: 80px;
+  --content-max-width: 1024px;
+
+  /* Гриды */
+  --main-grid-columns-tablet: 1fr 2fr;
+  --main-grid-columns-desktop: 1.05fr 2fr;
+  --theme-control-color: var(--accent-color);
+}
