@@ -1,0 +1,4080 @@
+{
+  "id": "1:384",
+  "name": "1024 x 768 - dark",
+  "type": "FRAME",
+  "x": -575,
+  "y": -2553,
+  "width": 1024,
+  "height": 5008,
+  "relativeTransform": [
+    [
+      1,
+      0,
+      -575
+    ],
+    [
+      0,
+      1,
+      -2553
+    ]
+  ],
+  "constraints": {
+    "horizontal": "MIN",
+    "vertical": "MIN"
+  },
+  "fills": [
+    {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0.1568627506494522
+      },
+      "boundVariables": {}
+    }
+  ],
+  "strokes": [],
+  "strokeWeight": 1,
+  "cornerRadius": 0,
+  "effects": [],
+  "blendMode": "PASS_THROUGH",
+  "layoutAlign": "INHERIT",
+  "layoutGrow": 0,
+  "layoutMode": "NONE",
+  "itemSpacing": 0,
+  "children": [
+    {
+      "id": "1:385",
+      "name": "Footer",
+      "type": "FRAME",
+      "x": 0,
+      "y": 4240,
+      "width": 1024,
+      "height": 768,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          4240
+        ]
+      ],
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "cornerRadius": 0,
+      "effects": [],
+      "blendMode": "PASS_THROUGH",
+      "layoutAlign": "INHERIT",
+      "layoutGrow": 0,
+      "layoutMode": "NONE",
+      "itemSpacing": 0,
+      "children": [
+        {
+          "id": "1:386",
+          "name": "focus",
+          "type": "TEXT",
+          "x": 277,
+          "y": 319,
+          "width": 471,
+          "height": 130,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              277
+            ],
+            [
+              0,
+              1,
+              319
+            ]
+          ],
+          "constraints": {
+            "horizontal": "CENTER",
+            "vertical": "CENTER"
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.8600000143051147,
+                "g": 0,
+                "b": 1
+              },
+              "boundVariables": {}
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [
+            {
+              "type": "DROP_SHADOW",
+              "visible": true,
+              "radius": 0,
+              "boundVariables": {},
+              "color": {
+                "r": 1,
+                "g": 0,
+                "b": 0.43877553939819336,
+                "a": 1
+              },
+              "offset": {
+                "x": 2,
+                "y": 2
+              },
+              "spread": 0,
+              "blendMode": "NORMAL",
+              "showShadowBehindNode": false
+            }
+          ],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "children": []
+        },
+        {
+          "id": "1:387",
+          "name": "Decorations",
+          "type": "FRAME",
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 768,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "constraints": {
+            "horizontal": "CENTER",
+            "vertical": "MIN"
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "cornerRadius": 0,
+          "effects": [],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "layoutMode": "VERTICAL",
+          "itemSpacing": 10,
+          "children": [
+            {
+              "id": "1:388",
+              "name": "Group",
+              "type": "GROUP",
+              "x": 20,
+              "y": 20,
+              "width": 984,
+              "height": 728,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  20
+                ]
+              ],
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "STRETCH",
+              "layoutGrow": 1,
+              "children": [
+                {
+                  "id": "1:389",
+                  "name": "Rectangle 77",
+                  "type": "RECTANGLE",
+                  "x": 979,
+                  "y": 19.999999473133357,
+                  "width": 25,
+                  "height": 25,
+                  "relativeTransform": [
+                    [
+                      1,
+                      3.1818994106203036e-9,
+                      979
+                    ],
+                    [
+                      -1.6081230200044232e-16,
+                      1,
+                      19.999999473133357
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [],
+                  "strokes": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:390",
+                  "name": "Rectangle 79",
+                  "type": "RECTANGLE",
+                  "x": 19.999999318149094,
+                  "y": 723,
+                  "width": 25,
+                  "height": 25,
+                  "relativeTransform": [
+                    [
+                      1,
+                      1.9520815186524487e-8,
+                      19.999999318149094
+                    ],
+                    [
+                      1.6081227553066272e-16,
+                      1,
+                      723
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [],
+                  "strokes": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1:391",
+      "name": "Main",
+      "type": "GROUP",
+      "x": 0,
+      "y": 828,
+      "width": 1024,
+      "height": 3352,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          828
+        ]
+      ],
+      "effects": [],
+      "blendMode": "PASS_THROUGH",
+      "layoutAlign": "INHERIT",
+      "layoutGrow": 0,
+      "children": [
+        {
+          "id": "1:392",
+          "name": "Section",
+          "type": "FRAME",
+          "x": 0,
+          "y": 3089,
+          "width": 1024,
+          "height": 1091,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              3089
+            ]
+          ],
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "cornerRadius": 0,
+          "effects": [],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "layoutMode": "VERTICAL",
+          "itemSpacing": 0,
+          "children": [
+            {
+              "id": "1:393",
+              "name": "Rectangle 62",
+              "type": "RECTANGLE",
+              "x": 20,
+              "y": 0,
+              "width": 984,
+              "height": 23,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  0
+                ]
+              ],
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "visible": true,
+                  "opacity": 1,
+                  "blendMode": "NORMAL",
+                  "color": {
+                    "r": 1,
+                    "g": 0,
+                    "b": 0.43877553939819336
+                  },
+                  "boundVariables": {}
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "cornerRadius": 0,
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "children": []
+            },
+            {
+              "id": "1:394",
+              "name": "Group",
+              "type": "GROUP",
+              "x": 20,
+              "y": 0,
+              "width": 984,
+              "height": 1091,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  0
+                ]
+              ],
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "STRETCH",
+              "layoutGrow": 0,
+              "children": [
+                {
+                  "id": "1:395",
+                  "name": "2107.w026.n002.597B.p1",
+                  "type": "RECTANGLE",
+                  "x": 20,
+                  "y": 43,
+                  "width": 650,
+                  "height": 260,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      20
+                    ],
+                    [
+                      0,
+                      1,
+                      43
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "IMAGE",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "scaleMode": "FILL",
+                      "imageTransform": [
+                        [
+                          1,
+                          0,
+                          -5.1444263959865566e-8
+                        ],
+                        [
+                          0,
+                          1.2319432497024536,
+                          -0.004068083595484495
+                        ]
+                      ],
+                      "scalingFactor": 0.5,
+                      "rotation": 0,
+                      "filters": {
+                        "exposure": 0,
+                        "contrast": 0,
+                        "saturation": 0,
+                        "temperature": -1,
+                        "tint": 0,
+                        "highlights": 0,
+                        "shadows": 0
+                      },
+                      "imageHash": "534b2b7c2eee1f9e6df579499454c24db3e38fc6"
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 2,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:396",
+                  "name": "72538572",
+                  "type": "RECTANGLE",
+                  "x": 690,
+                  "y": 43,
+                  "width": 314,
+                  "height": 595,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      690
+                    ],
+                    [
+                      0,
+                      1,
+                      43
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MAX",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "IMAGE",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "scaleMode": "FILL",
+                      "imageTransform": [
+                        [
+                          0.99811851978302,
+                          0,
+                          0.00007139342051232234
+                        ],
+                        [
+                          0,
+                          1.0000654458999634,
+                          -0.00006584070797543973
+                        ]
+                      ],
+                      "scalingFactor": 0.5,
+                      "rotation": 0,
+                      "filters": {
+                        "exposure": 0,
+                        "contrast": 0,
+                        "saturation": 0,
+                        "temperature": 0,
+                        "tint": 0.5,
+                        "highlights": 0,
+                        "shadows": 0
+                      },
+                      "imageHash": "2e3c8e87d408c66065fd4cfc290eb94fa71fa60d"
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:397",
+                  "name": "5211598",
+                  "type": "RECTANGLE",
+                  "x": 20,
+                  "y": 323,
+                  "width": 315,
+                  "height": 768,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      20
+                    ],
+                    [
+                      0,
+                      1,
+                      323
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "IMAGE",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "scaleMode": "FILL",
+                      "imageTransform": [
+                        [
+                          1.0000039339065552,
+                          0,
+                          -0.0000019771991901507135
+                        ],
+                        [
+                          0,
+                          1.4398658275604248,
+                          -0.25045347213745117
+                        ]
+                      ],
+                      "scalingFactor": 0.5,
+                      "rotation": 0,
+                      "filters": {
+                        "exposure": 0,
+                        "contrast": 0,
+                        "saturation": 0,
+                        "temperature": 0,
+                        "tint": 0,
+                        "highlights": 0,
+                        "shadows": 0
+                      },
+                      "imageHash": "1b3b4e01fb11c42f5e94cfe50a7857f78fb0dceb"
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:398",
+                  "name": "4248613",
+                  "type": "RECTANGLE",
+                  "x": 355,
+                  "y": 658,
+                  "width": 649,
+                  "height": 433,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      355
+                    ],
+                    [
+                      0,
+                      1,
+                      658
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MAX",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "IMAGE",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "scaleMode": "FILL",
+                      "imageTransform": [
+                        [
+                          0.9464695453643799,
+                          0,
+                          0.00010410167305963114
+                        ],
+                        [
+                          0,
+                          2.2086756229400635,
+                          -0.6843210458755493
+                        ]
+                      ],
+                      "scalingFactor": 0.5,
+                      "rotation": 0,
+                      "filters": {
+                        "exposure": 0,
+                        "contrast": 0,
+                        "saturation": 0,
+                        "temperature": 0,
+                        "tint": 0.3644067943096161,
+                        "highlights": 0,
+                        "shadows": 0
+                      },
+                      "imageHash": "36abdcc2423a8cbe50cc9acdb5c740f3bde57551"
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:399",
+                  "name": "6891867",
+                  "type": "RECTANGLE",
+                  "x": 355,
+                  "y": 323,
+                  "width": 315,
+                  "height": 315,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      355
+                    ],
+                    [
+                      0,
+                      1,
+                      323
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "CENTER",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "IMAGE",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "scaleMode": "FILL",
+                      "imageTransform": [
+                        [
+                          1,
+                          0,
+                          0
+                        ],
+                        [
+                          0,
+                          1,
+                          0
+                        ]
+                      ],
+                      "scalingFactor": 0.5,
+                      "rotation": 0,
+                      "filters": {
+                        "exposure": 0,
+                        "contrast": 0,
+                        "saturation": 0,
+                        "temperature": -0.8220338821411133,
+                        "tint": 1,
+                        "highlights": 0,
+                        "shadows": 0
+                      },
+                      "imageHash": "7324757bb89d6343e964752d8ed4ec10d97a2cb3"
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:400",
+                  "name": "А можно в картинках?",
+                  "type": "TEXT",
+                  "x": 20,
+                  "y": 0,
+                  "width": 984,
+                  "height": 23,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      20
+                    ],
+                    [
+                      0,
+                      1,
+                      0
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0.1568627506494522
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 0.5796491503715515,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "STRETCH",
+                  "layoutGrow": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1:401",
+          "name": "Section",
+          "type": "FRAME",
+          "x": 0,
+          "y": 1994,
+          "width": 1024,
+          "height": 1015,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1994
+            ]
+          ],
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "cornerRadius": 0,
+          "effects": [],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "layoutMode": "VERTICAL",
+          "itemSpacing": 0,
+          "children": [
+            {
+              "id": "1:402",
+              "name": "Rectangles",
+              "type": "GROUP",
+              "x": 355,
+              "y": 0,
+              "width": 649,
+              "height": 888,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  355
+                ],
+                [
+                  0,
+                  1,
+                  0
+                ]
+              ],
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "children": [
+                {
+                  "id": "1:403",
+                  "name": "Rectangle 65",
+                  "type": "RECTANGLE",
+                  "x": 355,
+                  "y": 0,
+                  "width": 649,
+                  "height": 23,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      355
+                    ],
+                    [
+                      0,
+                      1,
+                      0
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:404",
+                  "name": "Rectangle 64",
+                  "type": "RECTANGLE",
+                  "x": 355,
+                  "y": 43,
+                  "width": 649,
+                  "height": 23,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      355
+                    ],
+                    [
+                      0,
+                      1,
+                      43
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:405",
+                  "name": "Rectangle 63",
+                  "type": "RECTANGLE",
+                  "x": 355,
+                  "y": 307,
+                  "width": 649,
+                  "height": 23,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      355
+                    ],
+                    [
+                      0,
+                      1,
+                      307
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:406",
+                  "name": "Rectangle 61",
+                  "type": "RECTANGLE",
+                  "x": 355,
+                  "y": 477,
+                  "width": 649,
+                  "height": 24,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      355
+                    ],
+                    [
+                      0,
+                      1,
+                      477
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:407",
+                  "name": "Rectangle 60",
+                  "type": "RECTANGLE",
+                  "x": 355,
+                  "y": 694,
+                  "width": 649,
+                  "height": 24,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      355
+                    ],
+                    [
+                      0,
+                      1,
+                      694
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:408",
+                  "name": "Rectangle 62",
+                  "type": "RECTANGLE",
+                  "x": 355,
+                  "y": 865,
+                  "width": 649,
+                  "height": 23,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      355
+                    ],
+                    [
+                      0,
+                      1,
+                      865
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1:409",
+              "name": "Group",
+              "type": "GROUP",
+              "x": 20,
+              "y": 0,
+              "width": 984,
+              "height": 1015,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  0
+                ]
+              ],
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "children": [
+                {
+                  "id": "1:410",
+                  "name": "Content",
+                  "type": "FRAME",
+                  "x": 355,
+                  "y": 0,
+                  "width": 649,
+                  "height": 1015,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      355
+                    ],
+                    [
+                      0,
+                      1,
+                      0
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MAX",
+                    "vertical": "MIN"
+                  },
+                  "fills": [],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "layoutMode": "VERTICAL",
+                  "itemSpacing": 20,
+                  "children": [
+                    {
+                      "id": "1:411",
+                      "name": "5 простых (на самом деле не очень) советов",
+                      "type": "TEXT",
+                      "x": 0,
+                      "y": 0,
+                      "width": 649,
+                      "height": 23,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          0
+                        ],
+                        [
+                          0,
+                          1,
+                          0
+                        ]
+                      ],
+                      "constraints": {
+                        "horizontal": "MIN",
+                        "vertical": "MIN"
+                      },
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0.1568627506494522
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokes": [],
+                      "strokeWeight": 0.5796491503715515,
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "STRETCH",
+                      "layoutGrow": 0,
+                      "children": []
+                    },
+                    {
+                      "id": "1:412",
+                      "name": "Представьте небо",
+                      "type": "GROUP",
+                      "x": 0,
+                      "y": 43,
+                      "width": 649,
+                      "height": 244,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          0
+                        ],
+                        [
+                          0,
+                          1,
+                          43
+                        ]
+                      ],
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "STRETCH",
+                      "layoutGrow": 0,
+                      "children": [
+                        {
+                          "id": "1:413",
+                          "name": "Или листья в ручье. Тут дело в лёгкой медитации, которая помогает успокоиться. Ведь часто именно тревожные мысли о сложных задачах как раз и мешают эти сложные задачи делать. В такие моменты можно закрыть глаза и представить, что чистое небо — это вы, а облака — тревожные мысли. И сколько бы их ни было — ясное небо всегда будет где-то там, за тучами, и никуда не денется. Это упражнение поможет вернуться в настоящий момент, а не волноваться о потенциальных проблемах из будущего.",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 76,
+                          "width": 647.5520629882812,
+                          "height": 211,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              0
+                            ],
+                            [
+                              0,
+                              1,
+                              76
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0.9450980424880981,
+                                "g": 0.6980392336845398,
+                                "b": 0.8078431487083435
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        },
+                        {
+                          "id": "1:414",
+                          "name": "Представьте небо и облака",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 43,
+                          "width": 649,
+                          "height": 23,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              0
+                            ],
+                            [
+                              0,
+                              1,
+                              43
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0.1568627506494522
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:415",
+                      "name": "Включите музыку",
+                      "type": "GROUP",
+                      "x": 0,
+                      "y": 307,
+                      "width": 649,
+                      "height": 150,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          0
+                        ],
+                        [
+                          0,
+                          1,
+                          307
+                        ]
+                      ],
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "STRETCH",
+                      "layoutGrow": 0,
+                      "children": [
+                        {
+                          "id": "1:416",
+                          "name": "Но не любую, и не любимую. Любимая может быть связана с сильными положительными эмоциями, которые тоже очень сильно отвлекают. Подойдёт тихая, спокойная, умеренно-ритмичная. Можно вообще попробовать включить плейлист с «белым шумом» или нейромузыкой.",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 340,
+                          "width": 649,
+                          "height": 117,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              0
+                            ],
+                            [
+                              0,
+                              1,
+                              340
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0.9450980424880981,
+                                "g": 0.6980392336845398,
+                                "b": 0.8078431487083435
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        },
+                        {
+                          "id": "1:417",
+                          "name": "Включите музыку",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 307,
+                          "width": 649,
+                          "height": 23,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              0
+                            ],
+                            [
+                              0,
+                              1,
+                              307
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0.1568627506494522
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:418",
+                      "name": "Прогуляйтесь",
+                      "type": "GROUP",
+                      "x": 0,
+                      "y": 477,
+                      "width": 649,
+                      "height": 197,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          0
+                        ],
+                        [
+                          0,
+                          1,
+                          477
+                        ]
+                      ],
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "STRETCH",
+                      "layoutGrow": 0,
+                      "children": [
+                        {
+                          "id": "1:419",
+                          "name": "Или даже...",
+                          "type": "GROUP",
+                          "x": 0,
+                          "y": 510,
+                          "width": 649,
+                          "height": 164,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              0
+                            ],
+                            [
+                              0,
+                              1,
+                              510
+                            ]
+                          ],
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": [
+                            {
+                              "id": "1:420",
+                              "name": "Link effects",
+                              "type": "TEXT",
+                              "x": 132.25390625,
+                              "y": 536,
+                              "width": 77.00546264648438,
+                              "height": 23,
+                              "relativeTransform": [
+                                [
+                                  1,
+                                  0,
+                                  132.25390625
+                                ],
+                                [
+                                  0,
+                                  1,
+                                  536
+                                ]
+                              ],
+                              "constraints": {
+                                "horizontal": "MIN",
+                                "vertical": "MIN"
+                              },
+                              "fills": [
+                                {
+                                  "type": "SOLID",
+                                  "visible": true,
+                                  "opacity": 1,
+                                  "blendMode": "NORMAL",
+                                  "color": {
+                                    "r": 1,
+                                    "g": 0,
+                                    "b": 0.43877553939819336
+                                  },
+                                  "boundVariables": {}
+                                }
+                              ],
+                              "strokes": [],
+                              "strokeWeight": 1,
+                              "effects": [],
+                              "blendMode": "PASS_THROUGH",
+                              "layoutAlign": "INHERIT",
+                              "layoutGrow": 0,
+                              "children": []
+                            },
+                            {
+                              "id": "1:421",
+                              "name": "Или даже пробегитесь. Лучше найти парк или лес: один эксперимент показал, что созерцание природы повышает концентрацию, в то время как после просмотра городских пейзажей она наоборот понижается. Можно совместить прогулку с физическими упражнениями или бегом — так в мозг поступит ещё больше кислорода и он будет лучше работать. Но и простая двадцатиминутная прогулка — тоже отличный вариант.",
+                              "type": "TEXT",
+                              "x": 0,
+                              "y": 510,
+                              "width": 649,
+                              "height": 164,
+                              "relativeTransform": [
+                                [
+                                  1,
+                                  0,
+                                  0
+                                ],
+                                [
+                                  0,
+                                  1,
+                                  510
+                                ]
+                              ],
+                              "constraints": {
+                                "horizontal": "MIN",
+                                "vertical": "MIN"
+                              },
+                              "fills": [
+                                {
+                                  "type": "SOLID",
+                                  "visible": true,
+                                  "opacity": 1,
+                                  "blendMode": "NORMAL",
+                                  "color": {
+                                    "r": 0.9450980424880981,
+                                    "g": 0.6980392336845398,
+                                    "b": 0.8078431487083435
+                                  },
+                                  "boundVariables": {}
+                                }
+                              ],
+                              "strokes": [],
+                              "strokeWeight": 0.5796491503715515,
+                              "effects": [],
+                              "blendMode": "PASS_THROUGH",
+                              "layoutAlign": "INHERIT",
+                              "layoutGrow": 0,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "1:422",
+                          "name": "Прогуляйтесь",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 477,
+                          "width": 649,
+                          "height": 23,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              0
+                            ],
+                            [
+                              0,
+                              1,
+                              477
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0.1568627506494522
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:423",
+                      "name": "Хорошо ешьте",
+                      "type": "GROUP",
+                      "x": 0,
+                      "y": 694,
+                      "width": 649,
+                      "height": 151,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          0
+                        ],
+                        [
+                          0,
+                          1,
+                          694
+                        ]
+                      ],
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "STRETCH",
+                      "layoutGrow": 0,
+                      "children": [
+                        {
+                          "id": "1:424",
+                          "name": "Мы — не ваша бабушка, но это правда важно. Выбирайте продукты, которые препятствуют резким скачкам сахара в крови. Например, с высоким содержанием клетчатки: овощи, ягоды, бобовые (нут, чечевица, фасоль), коричневый рис, хлеб из цельнозерновой пшеницы.",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 727,
+                          "width": 649,
+                          "height": 118,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              0
+                            ],
+                            [
+                              0,
+                              1,
+                              727
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0.9450980424880981,
+                                "g": 0.6980392336845398,
+                                "b": 0.8078431487083435
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        },
+                        {
+                          "id": "1:425",
+                          "name": "Хорошо ешьте",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 694,
+                          "width": 649,
+                          "height": 23,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              0
+                            ],
+                            [
+                              0,
+                              1,
+                              694
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0.1568627506494522
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:426",
+                      "name": "Читайте",
+                      "type": "GROUP",
+                      "x": 0,
+                      "y": 865,
+                      "width": 649,
+                      "height": 150,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          0
+                        ],
+                        [
+                          0,
+                          1,
+                          865
+                        ]
+                      ],
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "STRETCH",
+                      "layoutGrow": 0,
+                      "children": [
+                        {
+                          "id": "1:427",
+                          "name": "Настоящие бумажные книги. Это правда помогает с концентрацией: чтобы прочитать пост в соцсети, достаточно нескольких минут или даже секунд. А вот интересная книга способна затянуть и на несколько часов и круто тренирует направленное внимание.",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 898,
+                          "width": 649,
+                          "height": 117,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              0
+                            ],
+                            [
+                              0,
+                              1,
+                              898
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0.9450980424880981,
+                                "g": 0.6980392336845398,
+                                "b": 0.8078431487083435
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        },
+                        {
+                          "id": "1:428",
+                          "name": "Читайте",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 865,
+                          "width": 649,
+                          "height": 23,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              0
+                            ],
+                            [
+                              0,
+                              1,
+                              865
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0.1568627506494522
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "1:429",
+                  "name": "Title 2",
+                  "type": "TEXT",
+                  "x": 20,
+                  "y": 0,
+                  "width": 315,
+                  "height": 98,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      20
+                    ],
+                    [
+                      0,
+                      1,
+                      0
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 0.5796491503715515,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1:430",
+          "name": "Section",
+          "type": "FRAME",
+          "x": 0,
+          "y": 1416,
+          "width": 1024,
+          "height": 498,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1416
+            ]
+          ],
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "cornerRadius": 0,
+          "effects": [],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "layoutMode": "VERTICAL",
+          "itemSpacing": 0,
+          "children": [
+            {
+              "id": "1:431",
+              "name": "Rectangles",
+              "type": "GROUP",
+              "x": 20,
+              "y": 67,
+              "width": 984,
+              "height": 23,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  67
+                ]
+              ],
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "children": [
+                {
+                  "id": "1:432",
+                  "name": "Rectangle 59",
+                  "type": "RECTANGLE",
+                  "x": 20,
+                  "y": 67,
+                  "width": 315,
+                  "height": 23,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      20
+                    ],
+                    [
+                      0,
+                      1,
+                      67
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:433",
+                  "name": "Rectangle 58",
+                  "type": "RECTANGLE",
+                  "x": 355,
+                  "y": 67,
+                  "width": 315,
+                  "height": 23,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      355
+                    ],
+                    [
+                      0,
+                      1,
+                      67
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:434",
+                  "name": "Rectangle 57",
+                  "type": "RECTANGLE",
+                  "x": 689,
+                  "y": 67,
+                  "width": 315,
+                  "height": 23,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      689
+                    ],
+                    [
+                      0,
+                      1,
+                      67
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1:435",
+              "name": "Group",
+              "type": "GROUP",
+              "x": 20,
+              "y": 0,
+              "width": 984,
+              "height": 498,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  0
+                ]
+              ],
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "children": [
+                {
+                  "id": "1:436",
+                  "name": "Content",
+                  "type": "FRAME",
+                  "x": 20,
+                  "y": 67,
+                  "width": 984,
+                  "height": 431,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      20
+                    ],
+                    [
+                      0,
+                      1,
+                      67
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "layoutMode": "HORIZONTAL",
+                  "itemSpacing": 20,
+                  "children": [
+                    {
+                      "id": "1:437",
+                      "name": "Многозадачность",
+                      "type": "GROUP",
+                      "x": 0,
+                      "y": 0,
+                      "width": 315,
+                      "height": 384,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          0
+                        ],
+                        [
+                          0,
+                          1,
+                          0
+                        ]
+                      ],
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "INHERIT",
+                      "layoutGrow": 0,
+                      "children": [
+                        {
+                          "id": "1:438",
+                          "name": "Многозадачность",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 0,
+                          "width": 315,
+                          "height": 23,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              0
+                            ],
+                            [
+                              0,
+                              1,
+                              0
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0.1568627506494522
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        },
+                        {
+                          "id": "1:439",
+                          "name": "Как концентрация может снижаться из-за… концентрации? Любая стрессовая ситуация (и резко меняющийся мир в целом) заставляет наш мозг постоянно «сканировать» окружающую среду на предмет опасности. Например, читать новости вместо работы. Но быть собранными всё время — невозможно. Концентрация — мышца, и она может не выдержать, если не давать ей отдохнуть.",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 33,
+                          "width": 315,
+                          "height": 351,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              0
+                            ],
+                            [
+                              0,
+                              1,
+                              33
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0.9450980424880981,
+                                "g": 0.6980392336845398,
+                                "b": 0.8078431487083435
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:440",
+                      "name": "Еда",
+                      "type": "GROUP",
+                      "x": 334.9997863769531,
+                      "y": 0,
+                      "width": 315,
+                      "height": 361,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          334.9997863769531
+                        ],
+                        [
+                          0,
+                          1,
+                          0
+                        ]
+                      ],
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "INHERIT",
+                      "layoutGrow": 0,
+                      "children": [
+                        {
+                          "id": "1:441",
+                          "name": "Еда",
+                          "type": "TEXT",
+                          "x": 334.9997863769531,
+                          "y": 0,
+                          "width": 315,
+                          "height": 23,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              334.9997863769531
+                            ],
+                            [
+                              0,
+                              1,
+                              0
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0.1568627506494522
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        },
+                        {
+                          "id": "1:442",
+                          "name": "«Быстрые углеводы» — сахар, белый хлеб, сладости — молниеносно доставляют в мозг энергию и помогают ему лучше работать. Но уходит эта энергия также быстро, как и приходит. А мы в результате попадаем на «углеводные качели»: как только действие «быстрых углеводов» заканчивается, мы чувствуем усталость и сонливость. И хотим ещё больше быстрых углеводов.",
+                          "type": "TEXT",
+                          "x": 334.9997863769531,
+                          "y": 33,
+                          "width": 315,
+                          "height": 328,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              334.9997863769531
+                            ],
+                            [
+                              0,
+                              1,
+                              33
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0.9450980424880981,
+                                "g": 0.6980392336845398,
+                                "b": 0.8078431487083435
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:443",
+                      "name": "Гаджеты",
+                      "type": "GROUP",
+                      "x": 670,
+                      "y": 0,
+                      "width": 315,
+                      "height": 431,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          670
+                        ],
+                        [
+                          0,
+                          1,
+                          0
+                        ]
+                      ],
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "INHERIT",
+                      "layoutGrow": 0,
+                      "children": [
+                        {
+                          "id": "1:444",
+                          "name": "Гаджеты",
+                          "type": "TEXT",
+                          "x": 670,
+                          "y": 0,
+                          "width": 315,
+                          "height": 23,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              670
+                            ],
+                            [
+                              0,
+                              1,
+                              0
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0.1568627506494522
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        },
+                        {
+                          "id": "1:445",
+                          "name": "Да-да, это та самая ситуация, когда на экране ноутбука — код, в наушниках — подкаст, а на компьютере фоном — ещё и видео с забавными утятами. В результате мозг пытается переключиться с одной задачи на другую — и просто не может. А чтобы вернуться к состоянию полной концентрации, человеку в среднем нужно 20 минут. Вот и получается, что чем больше времени мы проводим в гаджетах, тем больше времени затем нужно, чтобы вернуться к работе.",
+                          "type": "TEXT",
+                          "x": 670,
+                          "y": 33,
+                          "width": 315,
+                          "height": 398,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              670
+                            ],
+                            [
+                              0,
+                              1,
+                              33
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0.9450980424880981,
+                                "g": 0.6980392336845398,
+                                "b": 0.8078431487083435
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "1:446",
+                  "name": "Title 2",
+                  "type": "TEXT",
+                  "x": 20,
+                  "y": 0,
+                  "width": 315,
+                  "height": 47,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      20
+                    ],
+                    [
+                      0,
+                      1,
+                      0
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 0.5796491503715515,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1:447",
+          "name": "Section",
+          "type": "FRAME",
+          "x": 0,
+          "y": 828,
+          "width": 1024,
+          "height": 508,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              828
+            ]
+          ],
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "cornerRadius": 0,
+          "effects": [],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "layoutMode": "VERTICAL",
+          "itemSpacing": 0,
+          "children": [
+            {
+              "id": "1:448",
+              "name": "Rectangle 56",
+              "type": "RECTANGLE",
+              "x": 355,
+              "y": 0,
+              "width": 649,
+              "height": 23,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  355
+                ],
+                [
+                  0,
+                  1,
+                  0
+                ]
+              ],
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "visible": true,
+                  "opacity": 1,
+                  "blendMode": "NORMAL",
+                  "color": {
+                    "r": 1,
+                    "g": 0,
+                    "b": 0.43877553939819336
+                  },
+                  "boundVariables": {}
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "cornerRadius": 0,
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "children": []
+            },
+            {
+              "id": "1:449",
+              "name": "Rectangle 55",
+              "type": "RECTANGLE",
+              "x": 355,
+              "y": 264,
+              "width": 649,
+              "height": 23,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  355
+                ],
+                [
+                  0,
+                  1,
+                  264
+                ]
+              ],
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "visible": true,
+                  "opacity": 1,
+                  "blendMode": "NORMAL",
+                  "color": {
+                    "r": 1,
+                    "g": 0,
+                    "b": 0.43877553939819336
+                  },
+                  "boundVariables": {}
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "cornerRadius": 0,
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "children": []
+            },
+            {
+              "id": "1:450",
+              "name": "Group",
+              "type": "GROUP",
+              "x": 19.99981689453125,
+              "y": 0,
+              "width": 984.0003662109375,
+              "height": 508,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  19.99981689453125
+                ],
+                [
+                  0,
+                  1,
+                  0
+                ]
+              ],
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 1,
+              "children": [
+                {
+                  "id": "1:451",
+                  "name": "Дофамин",
+                  "type": "GROUP",
+                  "x": 355.0826416015625,
+                  "y": 264,
+                  "width": 648.9175415039062,
+                  "height": 244,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      355.0826416015625
+                    ],
+                    [
+                      0,
+                      1,
+                      264
+                    ]
+                  ],
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": [
+                    {
+                      "id": "1:452",
+                      "name": "С гормонами стресса всё понятно, но дальше — ещё интереснее. В нашей невозможности сосредоточиться замешана и полная противоположность стрессу — дофамин. Это вещество участвует в системе вознаграждения мозга. Причём тут он? Мы часто отвлекаемся от важной задачи на что-то более «приятное» для мозгов. Например, смотрим лайки в соцсетях. В это время и выделяется дофамин — и мы чувствуем удовольствие. Получается замкнутый круг: чем больше отвлекаешься, тем больше удовольствия получаешь.",
+                      "type": "TEXT",
+                      "x": 355.0826416015625,
+                      "y": 297,
+                      "width": 648.9175415039062,
+                      "height": 211,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          355.0826416015625
+                        ],
+                        [
+                          0,
+                          1,
+                          297
+                        ]
+                      ],
+                      "constraints": {
+                        "horizontal": "MAX",
+                        "vertical": "MIN"
+                      },
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0.9458333253860474,
+                            "g": 0.6975520849227905,
+                            "b": 0.8064917325973511
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokes": [],
+                      "strokeWeight": 0.5796491503715515,
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "INHERIT",
+                      "layoutGrow": 0,
+                      "children": []
+                    },
+                    {
+                      "id": "1:453",
+                      "name": "Дофамин",
+                      "type": "TEXT",
+                      "x": 355.0826416015625,
+                      "y": 264,
+                      "width": 648.9175415039062,
+                      "height": 23,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          355.0826416015625
+                        ],
+                        [
+                          0,
+                          1,
+                          264
+                        ]
+                      ],
+                      "constraints": {
+                        "horizontal": "MAX",
+                        "vertical": "MIN"
+                      },
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0.1568627506494522
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokes": [],
+                      "strokeWeight": 0.5796491503715515,
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "INHERIT",
+                      "layoutGrow": 0,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "1:454",
+                  "name": "Многозадачность",
+                  "type": "GROUP",
+                  "x": 354.89324951171875,
+                  "y": 0,
+                  "width": 648.91796875,
+                  "height": 244,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      354.89324951171875
+                    ],
+                    [
+                      0,
+                      1,
+                      0
+                    ]
+                  ],
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": [
+                    {
+                      "id": "1:455",
+                      "name": "Group",
+                      "type": "GROUP",
+                      "x": 354.8936759593198,
+                      "y": 33,
+                      "width": 648.9175415039062,
+                      "height": 211,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          354.8936759593198
+                        ],
+                        [
+                          0,
+                          1,
+                          33
+                        ]
+                      ],
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "INHERIT",
+                      "layoutGrow": 0,
+                      "children": [
+                        {
+                          "id": "1:456",
+                          "name": "Link effects",
+                          "type": "TEXT",
+                          "x": 896.5358268382261,
+                          "y": 106,
+                          "width": 89.07803344726562,
+                          "height": 23,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              896.5358268382261
+                            ],
+                            [
+                              0,
+                              1,
+                              106
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MIN",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 1,
+                                "g": 0,
+                                "b": 0.43877553939819336
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 1,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        },
+                        {
+                          "id": "1:457",
+                          "name": "Особенно сложно сосредоточиться, когда задач много и все они — важные. Где же легендарная многозадачность, когда она так нужна вам (и всем нанимающим менеджерам этого мира)? А дело в том, что её просто не существует. Исследователи выяснили, что мозгу тяжело концентрироваться даже на двух делах одновременно. А когда в поле внимания попадает несколько важных задач, организм паникует и выделяет кортизол и адреналин — «гормоны стресса». Из-за этого мы работаем невнимательно: ошибаемся и быстро устаём.",
+                          "type": "TEXT",
+                          "x": 354.8936759593198,
+                          "y": 33,
+                          "width": 648.9175415039062,
+                          "height": 211,
+                          "relativeTransform": [
+                            [
+                              1,
+                              0,
+                              354.8936759593198
+                            ],
+                            [
+                              0,
+                              1,
+                              33
+                            ]
+                          ],
+                          "constraints": {
+                            "horizontal": "MAX",
+                            "vertical": "MIN"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "visible": true,
+                              "opacity": 1,
+                              "blendMode": "NORMAL",
+                              "color": {
+                                "r": 0.9458333253860474,
+                                "g": 0.6975520849227905,
+                                "b": 0.8064917325973511
+                              },
+                              "boundVariables": {}
+                            }
+                          ],
+                          "strokes": [],
+                          "strokeWeight": 0.5796491503715515,
+                          "effects": [],
+                          "blendMode": "PASS_THROUGH",
+                          "layoutAlign": "INHERIT",
+                          "layoutGrow": 0,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:458",
+                      "name": "Многозадачность",
+                      "type": "TEXT",
+                      "x": 354.89324951171875,
+                      "y": 0,
+                      "width": 648.9175415039062,
+                      "height": 23,
+                      "relativeTransform": [
+                        [
+                          1,
+                          0,
+                          354.89324951171875
+                        ],
+                        [
+                          0,
+                          1,
+                          0
+                        ]
+                      ],
+                      "constraints": {
+                        "horizontal": "MAX",
+                        "vertical": "MIN"
+                      },
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "visible": true,
+                          "opacity": 1,
+                          "blendMode": "NORMAL",
+                          "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0.1568627506494522
+                          },
+                          "boundVariables": {}
+                        }
+                      ],
+                      "strokes": [],
+                      "strokeWeight": 0.5796491503715515,
+                      "effects": [],
+                      "blendMode": "PASS_THROUGH",
+                      "layoutAlign": "INHERIT",
+                      "layoutGrow": 0,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "1:459",
+                  "name": "Title 2",
+                  "type": "TEXT",
+                  "x": 19.99981689453125,
+                  "y": 0,
+                  "width": 314.9599914550781,
+                  "height": 47,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      19.99981689453125
+                    ],
+                    [
+                      0,
+                      1,
+                      0
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 0.5796491503715515,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1:460",
+      "name": "Header",
+      "type": "FRAME",
+      "x": 0,
+      "y": 0,
+      "width": 1024,
+      "height": 768,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "cornerRadius": 0,
+      "effects": [],
+      "blendMode": "PASS_THROUGH",
+      "layoutAlign": "INHERIT",
+      "layoutGrow": 0,
+      "layoutMode": "NONE",
+      "itemSpacing": 0,
+      "children": [
+        {
+          "id": "1:461",
+          "name": "cover-image-dark",
+          "type": "RECTANGLE",
+          "x": -102,
+          "y": 0,
+          "width": 1229,
+          "height": 768,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              -102
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "constraints": {
+            "horizontal": "CENTER",
+            "vertical": "MIN"
+          },
+          "fills": [
+            {
+              "type": "IMAGE",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "scaleMode": "FILL",
+              "imageTransform": [
+                [
+                  1,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  0
+                ]
+              ],
+              "scalingFactor": 0.5,
+              "rotation": 0,
+              "filters": {
+                "exposure": 0,
+                "contrast": 0,
+                "saturation": 0,
+                "temperature": 0,
+                "tint": 0,
+                "highlights": 0,
+                "shadows": 0
+              },
+              "imageHash": "dfd0bddab7b566964fd701840768cd9eecd5ea42"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "cornerRadius": 0,
+          "effects": [],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "children": []
+        },
+        {
+          "id": "1:462",
+          "name": "Decorations",
+          "type": "FRAME",
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 768,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "cornerRadius": 0,
+          "effects": [],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "layoutMode": "VERTICAL",
+          "itemSpacing": 10,
+          "children": [
+            {
+              "id": "1:463",
+              "name": "Group",
+              "type": "GROUP",
+              "x": 20,
+              "y": 20,
+              "width": 984,
+              "height": 728,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  20
+                ]
+              ],
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "STRETCH",
+              "layoutGrow": 1,
+              "children": [
+                {
+                  "id": "1:464",
+                  "name": "Rectangle 77",
+                  "type": "RECTANGLE",
+                  "x": 979,
+                  "y": 19.99999948426921,
+                  "width": 25,
+                  "height": 25,
+                  "relativeTransform": [
+                    [
+                      1,
+                      5.0517776628566935e-9,
+                      979
+                    ],
+                    [
+                      -1.6081230200044232e-16,
+                      1,
+                      19.99999948426921
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [],
+                  "strokes": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                },
+                {
+                  "id": "1:465",
+                  "name": "Rectangle 79",
+                  "type": "RECTANGLE",
+                  "x": 19.999999309562668,
+                  "y": 723,
+                  "width": 25,
+                  "height": 25,
+                  "relativeTransform": [
+                    [
+                      1,
+                      2.064316362293539e-8,
+                      19.999999309562668
+                    ],
+                    [
+                      1.6081227553066272e-16,
+                      1,
+                      723
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [],
+                  "strokes": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "cornerRadius": 0,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1:466",
+          "name": "Title",
+          "type": "GROUP",
+          "x": 513,
+          "y": 563,
+          "width": 491,
+          "height": 71,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              513
+            ],
+            [
+              0,
+              1,
+              563
+            ]
+          ],
+          "effects": [],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "children": [
+            {
+              "id": "1:467",
+              "name": "Rectangle 50",
+              "type": "RECTANGLE",
+              "x": 513,
+              "y": 563,
+              "width": 491,
+              "height": 70,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  513
+                ],
+                [
+                  0,
+                  1,
+                  563
+                ]
+              ],
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "visible": true,
+                  "opacity": 1,
+                  "blendMode": "NORMAL",
+                  "color": {
+                    "r": 1,
+                    "g": 0,
+                    "b": 0.43877553939819336
+                  },
+                  "boundVariables": {}
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0.7097222208976746,
+              "cornerRadius": 0,
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "children": []
+            },
+            {
+              "id": "1:468",
+              "name": "Что делать, когда не можешь делать ничего Или почему нам так сложно сконцентрироваться, особенно когда очень надо",
+              "type": "TEXT",
+              "x": 513,
+              "y": 563,
+              "width": 491,
+              "height": 71,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  513
+                ],
+                [
+                  0,
+                  1,
+                  563
+                ]
+              ],
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "visible": true,
+                  "opacity": 1,
+                  "blendMode": "NORMAL",
+                  "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0.1568627506494522
+                  },
+                  "boundVariables": {}
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0.41138988733291626,
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1:469",
+          "name": "no focus",
+          "type": "TEXT",
+          "x": 0,
+          "y": 319,
+          "width": 759,
+          "height": 130,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              319
+            ]
+          ],
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "CENTER"
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.8600000143051147,
+                "g": 0,
+                "b": 1
+              },
+              "boundVariables": {}
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0.8809146285057068,
+          "effects": [
+            {
+              "type": "DROP_SHADOW",
+              "visible": true,
+              "radius": 0,
+              "boundVariables": {},
+              "color": {
+                "r": 1,
+                "g": 0,
+                "b": 0.43921568989753723,
+                "a": 1
+              },
+              "offset": {
+                "x": 4,
+                "y": 4
+              },
+              "spread": 0,
+              "blendMode": "NORMAL",
+              "showShadowBehindNode": false
+            }
+          ],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "children": []
+        },
+        {
+          "id": "1:470",
+          "name": "Theme switch",
+          "type": "GROUP",
+          "x": 397,
+          "y": 20,
+          "width": 230,
+          "height": 26,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              397
+            ],
+            [
+              0,
+              1,
+              20
+            ]
+          ],
+          "effects": [],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "children": [
+            {
+              "id": "1:471",
+              "name": "неон",
+              "type": "FRAME",
+              "x": 557,
+              "y": 20,
+              "width": 70,
+              "height": 26,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  557
+                ],
+                [
+                  0,
+                  1,
+                  20
+                ]
+              ],
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "fills": [],
+              "strokes": [
+                {
+                  "type": "SOLID",
+                  "visible": true,
+                  "opacity": 1,
+                  "blendMode": "NORMAL",
+                  "color": {
+                    "r": 1,
+                    "g": 0,
+                    "b": 0.43877553939819336
+                  },
+                  "boundVariables": {}
+                }
+              ],
+              "strokeWeight": 1,
+              "cornerRadius": 0,
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "layoutMode": "HORIZONTAL",
+              "itemSpacing": 0,
+              "children": [
+                {
+                  "id": "1:472",
+                  "name": "неон",
+                  "type": "TEXT",
+                  "x": 13,
+                  "y": 1.5,
+                  "width": 44,
+                  "height": 23,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      13
+                    ],
+                    [
+                      0,
+                      1,
+                      1.5
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 0.5796491503715515,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1:473",
+              "name": "авто",
+              "type": "FRAME",
+              "x": 477,
+              "y": 20,
+              "width": 70,
+              "height": 26,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  477
+                ],
+                [
+                  0,
+                  1,
+                  20
+                ]
+              ],
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "fills": [],
+              "strokes": [
+                {
+                  "type": "SOLID",
+                  "visible": false,
+                  "opacity": 1,
+                  "blendMode": "NORMAL",
+                  "color": {
+                    "r": 1,
+                    "g": 0,
+                    "b": 0.43877553939819336
+                  },
+                  "boundVariables": {}
+                }
+              ],
+              "strokeWeight": 1,
+              "cornerRadius": 0,
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "layoutMode": "HORIZONTAL",
+              "itemSpacing": 0,
+              "children": [
+                {
+                  "id": "1:474",
+                  "name": "авто",
+                  "type": "TEXT",
+                  "x": 13,
+                  "y": 1.5,
+                  "width": 44,
+                  "height": 23,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      13
+                    ],
+                    [
+                      0,
+                      1,
+                      1.5
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 0.5796491503715515,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1:475",
+              "name": "день",
+              "type": "FRAME",
+              "x": 397,
+              "y": 20,
+              "width": 70,
+              "height": 26,
+              "relativeTransform": [
+                [
+                  1,
+                  0,
+                  397
+                ],
+                [
+                  0,
+                  1,
+                  20
+                ]
+              ],
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "fills": [],
+              "strokes": [
+                {
+                  "type": "SOLID",
+                  "visible": false,
+                  "opacity": 1,
+                  "blendMode": "NORMAL",
+                  "color": {
+                    "r": 1,
+                    "g": 0,
+                    "b": 0.43877553939819336
+                  },
+                  "boundVariables": {}
+                }
+              ],
+              "strokeWeight": 1,
+              "cornerRadius": 0,
+              "effects": [],
+              "blendMode": "PASS_THROUGH",
+              "layoutAlign": "INHERIT",
+              "layoutGrow": 0,
+              "layoutMode": "HORIZONTAL",
+              "itemSpacing": 0,
+              "children": [
+                {
+                  "id": "1:476",
+                  "name": "день",
+                  "type": "TEXT",
+                  "x": 13,
+                  "y": 1.5,
+                  "width": 44,
+                  "height": 23,
+                  "relativeTransform": [
+                    [
+                      1,
+                      0,
+                      13
+                    ],
+                    [
+                      0,
+                      1,
+                      1.5
+                    ]
+                  ],
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "visible": true,
+                      "opacity": 1,
+                      "blendMode": "NORMAL",
+                      "color": {
+                        "r": 1,
+                        "g": 0,
+                        "b": 0.43877553939819336
+                      },
+                      "boundVariables": {}
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 0.5796491503715515,
+                  "effects": [],
+                  "blendMode": "PASS_THROUGH",
+                  "layoutAlign": "INHERIT",
+                  "layoutGrow": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1:477",
+      "name": "Лампочка",
+      "type": "GROUP",
+      "x": 943,
+      "y": 20,
+      "width": 52,
+      "height": 26,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          943
+        ],
+        [
+          0,
+          1,
+          20
+        ]
+      ],
+      "effects": [],
+      "blendMode": "PASS_THROUGH",
+      "layoutAlign": "INHERIT",
+      "layoutGrow": 0,
+      "children": [
+        {
+          "id": "1:478",
+          "name": "Ellipse 4",
+          "type": "ELLIPSE",
+          "x": 986,
+          "y": 28,
+          "width": 9,
+          "height": 9,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              986
+            ],
+            [
+              0,
+              1,
+              28
+            ]
+          ],
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 1,
+                "g": 0,
+                "b": 0.43877553939819336
+              },
+              "boundVariables": {}
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "cornerRadius": 0,
+          "effects": [
+            {
+              "type": "DROP_SHADOW",
+              "visible": true,
+              "radius": 4,
+              "boundVariables": {},
+              "color": {
+                "r": 1,
+                "g": 0,
+                "b": 0.43921568989753723,
+                "a": 1
+              },
+              "offset": {
+                "x": 0,
+                "y": 0
+              },
+              "spread": 2,
+              "blendMode": "NORMAL",
+              "showShadowBehindNode": false
+            }
+          ],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "children": []
+        },
+        {
+          "id": "1:479",
+          "name": "REC",
+          "type": "TEXT",
+          "x": 943,
+          "y": 20,
+          "width": 33,
+          "height": 26,
+          "relativeTransform": [
+            [
+              1,
+              0,
+              943
+            ],
+            [
+              0,
+              1,
+              20
+            ]
+          ],
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 1,
+                "g": 0,
+                "b": 0.43877553939819336
+              },
+              "boundVariables": {}
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0.5796491503715515,
+          "effects": [],
+          "blendMode": "PASS_THROUGH",
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "children": []
+        }
+      ]
+    }
+  ]
+}
